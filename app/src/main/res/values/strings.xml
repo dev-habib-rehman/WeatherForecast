@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="weather_forecast">Current Weather</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="temperature">Temperature :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="weather_description">Weather Description</string>
+    <string name="click_to_see_forecast">Click to see Forecast</string>
+    <string name="day">Day :</string>
+    <string name="date">Date :</string>
+    <string name="temperature_high">Temperature High :</string>
+    <string name="temperature_low">Temperature Low :</string>
+    <string name="condition">Condition :</string>
+</resources>
